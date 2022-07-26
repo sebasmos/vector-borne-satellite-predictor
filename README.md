@@ -1,14 +1,14 @@
 # Vector-borne-satellite-predictor
 *Deep learning for vector-borne diseases with satellite-imagery*.
 
-**Sentinelhub grant**: Sponsoring request ID 1c081a: Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite in Collaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia).
+**Sentinelhub grant**: Sponsoring request ID 1c081a: Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite in Collaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia). 
 
 <p align="left">
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/Python-3.8-ff69b4.svg" /></a>
     <a href= "https://pytorch.org/">
       <img src="https://img.shields.io/badge/PyTorch-1.8-2BAF2B.svg" /></a>
-    <a href= "https://github.com/sebasmos/Building.predictor/blob/main/LICENSE">
+    <a href= "https://github.com/sebasmos/vector-borne-satellite-predictor/blob/main/LICENCE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
 </p>
 <hr/>
@@ -25,4 +25,4 @@
 
 ## Copyright and License
 
-Code released under the [MIT](https://github.com/sebasmos/satellite.extractor/main/LICENSE) license.
+Code released under the [MIT](https://github.com/sebasmos/vector-borne-satellite-predictor/blob/main/LICENCE) license.
