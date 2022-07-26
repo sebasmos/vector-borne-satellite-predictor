@@ -1,2 +1,4 @@
 dconf
 .ipynb_checkpoints
+data
+*.tiff
